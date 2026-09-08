@@ -1,0 +1,21 @@
+{
+    "dataRoles": [
+        {
+            "displayName": "Symbol",
+            "name": "symbol",
+            "kind": "Grouping"
+        }
+    ],
+    "dataViewMappings": [
+        {
+            "table": {
+                "rows": {
+                    "for": {
+                        "in": "symbol"
+                    }
+                }
+            }
+        }
+    ],
+    "privileges": []
+}

@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "stockBridgeVisual",
+        "displayName": "StockBridgeVisual",
+        "guid": "stockBridgeVisual7073765212C8462AA429EFA7BE45B263",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "Power BI visual for sending selected stock symbols to a local Python bridge.",
+        "supportUrl": "https://github.com/",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "5.11.1",
+    "author": {
+        "name": "Harshith Kumar",
+        "email": "harshithveesala2005@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.0.0"
+}

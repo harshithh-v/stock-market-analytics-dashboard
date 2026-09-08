@@ -1,0 +1,41 @@
+{
+  "name": "Stock Market Dark Professional",
+  "dataColors": [
+    "#00E5C3",
+    "#2F80ED",
+    "#A56CFF",
+    "#FF9F43",
+    "#FF4D6D",
+    "#22C55E",
+    "#38BDF8",
+    "#FACC15"
+  ],
+  "background": "#061525",
+  "foreground": "#F5F7FA",
+  "tableAccent": "#00E5C3",
+  "good": "#22C55E",
+  "neutral": "#38BDF8",
+  "bad": "#FF4D6D",
+  "textClasses": {
+    "title": {
+      "fontFace": "Aptos Display",
+      "fontSize": 18,
+      "color": "#F5F7FA"
+    },
+    "header": {
+      "fontFace": "Aptos",
+      "fontSize": 12,
+      "color": "#D7E0EA"
+    },
+    "callout": {
+      "fontFace": "Aptos Display",
+      "fontSize": 24,
+      "color": "#F5F7FA"
+    },
+    "label": {
+      "fontFace": "Aptos",
+      "fontSize": 10,
+      "color": "#AFC0D0"
+    }
+  }
+}
